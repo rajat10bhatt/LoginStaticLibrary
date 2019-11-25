@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "349B6366-C75B-4A7D-ABD8-EEFD6CD9821E"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "53C84B24-2AEA-458B-9B0E-2EC012EFAEDE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ConsumerApp/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "signInAction(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "53C84B24-2AEA-458B-9B0E-2EC012EFAEDE - 52a2b2f591ed5b63"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ConsumerApp.ViewController.signInAction(__C.UIButton) -&gt; ()"
+                  moduleName = "ConsumerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rajat/Desktop/UnitTest/ConsumerApp/ConsumerApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "139">
+               </Location>
+               <Location
+                  uuid = "53C84B24-2AEA-458B-9B0E-2EC012EFAEDE - ed0bae8f00d54557"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in ConsumerApp.ViewController.signInAction(__C.UIButton) -&gt; ()"
+                  moduleName = "ConsumerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rajat/Desktop/UnitTest/ConsumerApp/ConsumerApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "39">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
